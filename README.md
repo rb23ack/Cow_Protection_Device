@@ -10,7 +10,7 @@ An IoT-based device designed to monitor and protect cows by utilizing ESP32. Thi
 - **Manual Override:** Allows the system to be manually stopped or restarted using a button.
 
 ## Components Used
-- ESP32 microcontroller
+- ESP32 microcontroller   
 - DHT22 temperature and humidity sensor   
 - PIR motion sensor
 - Potentiometer for sensitivity adjustment
