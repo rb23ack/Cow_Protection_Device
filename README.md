@@ -56,5 +56,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Adafruit for their excellent sensor libraries.
 - ESP32 community for the extensive resources and support.
 
----
-Feel free to improve this README further based on your specific project details!
