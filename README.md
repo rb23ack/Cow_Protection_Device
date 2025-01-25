@@ -1,6 +1,6 @@
 # Cow Protection Device
 
-An IoT-based device designed to monitor and protect cows by utilizing ESP32. This system features motion detection, temperature and humidity monitoring, automatic gate control, an OLED display for real-time updates, and a manual override function for emergencies.
+An IoT-based device designed to monitor and protect cows by utilizing ESP32. This system features motion detection, temperature and humidity monitoring, automatic gate control, an OLED display for real-time updates, and a manual override function for emergencies. I built it using "Wokwi" the online simulator. It is a great tool for prototyping. We need to be careful with wirings when building the physical device since it's a bit different when implementing the "actual" work. 
 
 ## Features   
 - **Motion Detection:** Detects motion using a PIR sensor and triggers an alert.
