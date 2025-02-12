@@ -50,7 +50,7 @@ An IoT-based device designed to monitor and protect cows by utilizing ESP32. Thi
 The complete source code is available in the repository. 
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.   
 
 ## Acknowledgments
 - Adafruit for their excellent sensor libraries.
