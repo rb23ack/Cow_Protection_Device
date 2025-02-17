@@ -5,7 +5,7 @@ An IoT-based device designed to monitor and protect cows by utilizing ESP32. Thi
 ## Features   
 - **Motion Detection:** Detects motion using a PIR sensor and triggers an alert.
 - **Temperature & Humidity Monitoring:** Monitors environmental conditions using a DHT22 sensor.
-- **Automatic Gate Control:** Controls a servo motor to open/close gates based on motion detection.
+- **Automatic Gate Control:** Controls a servo motor to open/close gates based on motion detection.   
 - **OLED Display:** Displays real-time system information and status updates.
 - **Manual Override:** Allows the system to be manually stopped or restarted using a button.
 
