@@ -44,7 +44,7 @@ An IoT-based device designed to monitor and protect cows by utilizing ESP32. Thi
 
 ## Example Usage
 - Livestock management: Protect cows from unauthorized access or predators.
-- Environmental monitoring: Observe temperature and humidity in the cowshed.
+- Environmental monitoring: Observe temperature and humidity in the cowshed.  
 
 ## Code
 The complete source code is available in the repository. 
