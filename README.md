@@ -8,7 +8,7 @@ An IoT-based device designed to monitor and protect cows by utilizing ESP32. Thi
 - **Automatic Gate Control:** Controls a servo motor to open/close gates based on motion detection.   
 - **OLED Display:** Displays real-time system information and status updates.
 - **Manual Override:** Allows the system to be manually stopped or restarted using a button.
-
+    
 ## Components Used   
 - ESP32 microcontroller   
 - DHT22 temperature and humidity sensor   
