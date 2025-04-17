@@ -9,7 +9,7 @@ An IoT-based device designed to monitor and protect cows by utilizing ESP32. Thi
 - **OLED Display:** Displays real-time system information and status updates.
 - **Manual Override:** Allows the system to be manually stopped or restarted using a button.
     
-## Components Used      
+## Components Used         
 - ESP32 microcontroller   
 - DHT22 temperature and humidity sensor   
 - PIR motion sensor
