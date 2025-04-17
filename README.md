@@ -13,7 +13,7 @@ An IoT-based device designed to monitor and protect cows by utilizing ESP32. Thi
 - ESP32 microcontroller   
 - DHT22 temperature and humidity sensor   
 - PIR motion sensor   
-- Potentiometer for sensitivity adjustment
+- Potentiometer for sensitivity adjustment   
 - Servo motor
 - OLED display (128x64)
 - Buzzer
